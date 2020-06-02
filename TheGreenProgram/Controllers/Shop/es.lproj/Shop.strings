@@ -6,7 +6,7 @@
 "Mak-T4-sqY.text" = "Label";
 
 /* Class = "UILabel"; text = " Sold out "; ObjectID = "RQP-60-AOb"; */
-"RQP-60-AOb.text" = " Sold out ";
+"RQP-60-AOb.text" = " Agotado ";
 
 /* Class = "UILabel"; text = "Label"; ObjectID = "USM-Ce-9Xw"; */
 "USM-Ce-9Xw.text" = "Label";
@@ -27,13 +27,13 @@
 "kn5-kV-euy.text" = "Label";
 
 /* Class = "UITabBarItem"; title = "Search"; ObjectID = "pEb-Cz-7ce"; */
-"pEb-Cz-7ce.title" = "Search";
+"pEb-Cz-7ce.title" = "Buscar";
 
 /* Class = "UILabel"; text = "Label"; ObjectID = "t2E-Bg-hR8"; */
 "t2E-Bg-hR8.text" = "Label";
 
 /* Class = "UILabel"; text = " Sold out "; ObjectID = "yDA-E0-ZnI"; */
-"yDA-E0-ZnI.text" = " Sold out ";
+"yDA-E0-ZnI.text" = " Agotado ";
 
 /* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "yV1-gi-jWe"; */
 "yV1-gi-jWe.title" = "Item";

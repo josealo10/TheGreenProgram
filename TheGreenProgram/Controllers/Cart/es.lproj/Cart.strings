@@ -1,57 +1,57 @@
 
 /* Class = "UILabel"; text = "Description"; ObjectID = "02Q-bt-6iP"; */
-"02Q-bt-6iP.text" = "Description";
+"02Q-bt-6iP.text" = "Descripción";
 
 /* Class = "UILabel"; text = "Label"; ObjectID = "1Ir-Ff-jvj"; */
 "1Ir-Ff-jvj.text" = "Label";
 
 /* Class = "UILabel"; text = "Price"; ObjectID = "47f-cP-D6k"; */
-"47f-cP-D6k.text" = "Price";
+"47f-cP-D6k.text" = "Precio";
 
 /* Class = "UILabel"; text = "Resumen"; ObjectID = "DUg-7q-tN0"; */
 "DUg-7q-tN0.text" = "Resumen";
 
 /* Class = "UILabel"; text = "Notes"; ObjectID = "E4o-Xw-Zv9"; */
-"E4o-Xw-Zv9.text" = "Notes";
+"E4o-Xw-Zv9.text" = "Notas";
 
 /* Class = "UIButton"; normalTitle = "Shop"; ObjectID = "GyJ-Dw-b7Z"; */
-"GyJ-Dw-b7Z.normalTitle" = "Shop";
+"GyJ-Dw-b7Z.normalTitle" = "Comprar";
 
 /* Class = "UITabBarItem"; title = "Cart"; ObjectID = "J7x-ls-hPy"; */
-"J7x-ls-hPy.title" = "Cart";
+"J7x-ls-hPy.title" = "Carrito";
 
 /* Class = "UIButton"; normalTitle = "Done"; ObjectID = "Kyw-Jd-OAV"; */
-"Kyw-Jd-OAV.normalTitle" = "Done";
+"Kyw-Jd-OAV.normalTitle" = "Listo";
 
 /* Class = "UILabel"; text = "Final"; ObjectID = "LVO-uP-U2S"; */
-"LVO-uP-U2S.text" = "Final";
+"LVO-uP-U2S.text" = "Precio final";
 
 /* Class = "UILabel"; text = "Label"; ObjectID = "N8y-X2-ySe"; */
 "N8y-X2-ySe.text" = "Label";
 
 /* Class = "UILabel"; text = "Taxes"; ObjectID = "PEK-w9-KJb"; */
-"PEK-w9-KJb.text" = "Taxes";
+"PEK-w9-KJb.text" = "Impuestos";
 
 /* Class = "UINavigationItem"; title = "Cart"; ObjectID = "SDV-xF-a75"; */
-"SDV-xF-a75.title" = "Cart";
+"SDV-xF-a75.title" = "Carrito";
 
 /* Class = "UIViewController"; title = "Cart"; ObjectID = "TpP-vL-Q3O"; */
-"TpP-vL-Q3O.title" = "Cart";
+"TpP-vL-Q3O.title" = "Carrito";
 
 /* Class = "UILabel"; text = "Cash"; ObjectID = "aVM-OR-DBW"; */
-"aVM-OR-DBW.text" = "Cash";
+"aVM-OR-DBW.text" = "Efectivo";
 
 /* Class = "UILabel"; text = "Label"; ObjectID = "cax-ZC-A7a"; */
 "cax-ZC-A7a.text" = "Label";
 
 /* Class = "UILabel"; text = "Shiping price"; ObjectID = "dub-dY-gp4"; */
-"dub-dY-gp4.text" = "Shiping price";
+"dub-dY-gp4.text" = "Precio de envio";
 
 /* Class = "UILabel"; text = "Label"; ObjectID = "eSb-cd-ox4"; */
 "eSb-cd-ox4.text" = "Label";
 
 /* Class = "UILabel"; text = "Phone number"; ObjectID = "hGz-qk-b0y"; */
-"hGz-qk-b0y.text" = "Phone number";
+"hGz-qk-b0y.text" = "Número telefonico";
 
 /* Class = "UILabel"; text = "Label"; ObjectID = "iXc-66-wb6"; */
 "iXc-66-wb6.text" = "Label";
@@ -60,10 +60,10 @@
 "ibp-W9-OEa.text" = "Label";
 
 /* Class = "UIButton"; normalTitle = "Add a note"; ObjectID = "jig-6o-gKf"; */
-"jig-6o-gKf.normalTitle" = "Add a note";
+"jig-6o-gKf.normalTitle" = "Agrega una nota";
 
 /* Class = "UIButton"; normalTitle = "Clean cart"; ObjectID = "kK3-vd-Z6L"; */
-"kK3-vd-Z6L.normalTitle" = "Clean cart";
+"kK3-vd-Z6L.normalTitle" = "Limpiar carrito";
 
 /* Class = "UILabel"; text = "Title"; ObjectID = "qbs-7b-kWT"; */
 "qbs-7b-kWT.text" = "Title";
@@ -75,16 +75,16 @@
 "twz-mw-K5O.text" = "Label";
 
 /* Class = "UILabel"; text = "Name"; ObjectID = "u0z-dB-Sko"; */
-"u0z-dB-Sko.text" = "Name";
+"u0z-dB-Sko.text" = "Nombre";
 
 /* Class = "UIButton"; normalTitle = "Change"; ObjectID = "uGP-i4-Xhe"; */
-"uGP-i4-Xhe.normalTitle" = "Change";
+"uGP-i4-Xhe.normalTitle" = "Cambiar";
 
 /* Class = "UILabel"; text = "Label"; ObjectID = "uLr-Dv-BLw"; */
 "uLr-Dv-BLw.text" = "Label";
 
 /* Class = "UILabel"; text = "Selected products"; ObjectID = "wLS-ZC-o49"; */
-"wLS-ZC-o49.text" = "Selected products";
+"wLS-ZC-o49.text" = "Productos:";
 
 /* Class = "UILabel"; text = "Label"; ObjectID = "yVR-tF-GZ0"; */
 "yVR-tF-GZ0.text" = "Label";

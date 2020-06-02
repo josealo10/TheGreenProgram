@@ -12,16 +12,16 @@
 "LQx-er-bU4.text" = "Total: ";
 
 /* Class = "UILabel"; text = "Note: "; ObjectID = "ObX-O7-53Q"; */
-"ObX-O7-53Q.text" = "Note: ";
+"ObX-O7-53Q.text" = "Nota: ";
 
 /* Class = "UILabel"; text = "Shipping address"; ObjectID = "TYP-RK-CjI"; */
-"TYP-RK-CjI.text" = "Shipping address";
+"TYP-RK-CjI.text" = "Direccion";
 
 /* Class = "UILabel"; text = "description"; ObjectID = "Xtr-HI-V7v"; */
 "Xtr-HI-V7v.text" = "description";
 
 /* Class = "UILabel"; text = "Shipping: "; ObjectID = "Zeb-fi-n3B"; */
-"Zeb-fi-n3B.text" = "Shipping: ";
+"Zeb-fi-n3B.text" = "Envío: ";
 
 /* Class = "UILabel"; text = "Tittle"; ObjectID = "btT-oU-Kij"; */
 "btT-oU-Kij.text" = "Tittle";
