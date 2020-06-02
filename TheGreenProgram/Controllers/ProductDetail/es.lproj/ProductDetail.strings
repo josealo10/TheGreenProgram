@@ -1,0 +1,39 @@
+
+/* Class = "UILabel"; text = "Price"; ObjectID = "07S-Uk-lGi"; */
+"07S-Uk-lGi.text" = "Price";
+
+/* Class = "UILabel"; text = "Quantity"; ObjectID = "8kc-bu-wds"; */
+"8kc-bu-wds.text" = "Quantity";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "LqO-3u-VXs"; */
+"LqO-3u-VXs.text" = "Description";
+
+/* Class = "UIButton"; normalTitle = "Add to cart"; ObjectID = "Ovg-lx-xId"; */
+"Ovg-lx-xId.normalTitle" = "Add to cart";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "RN2-Lf-aW8"; */
+"RN2-Lf-aW8.text" = "0";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "S7H-rI-Cll"; */
+"S7H-rI-Cll.text" = "Label";
+
+/* Class = "UILabel"; text = "1000"; ObjectID = "W5h-Ih-ztc"; */
+"W5h-Ih-ztc.text" = "1000";
+
+/* Class = "UILabel"; text = "Total price"; ObjectID = "e4O-YF-gAL"; */
+"e4O-YF-gAL.text" = "Total price";
+
+/* Class = "UILabel"; text = "deal"; ObjectID = "h2h-XS-eiN"; */
+"h2h-XS-eiN.text" = "deal";
+
+/* Class = "UIButton"; normalTitle = "Remove item from cart"; ObjectID = "hZ9-d8-xDB"; */
+"hZ9-d8-xDB.normalTitle" = "Remove item from cart";
+
+/* Class = "UILabel"; text = "Kilo"; ObjectID = "k2D-si-cWT"; */
+"k2D-si-cWT.text" = "Kilo";
+
+/* Class = "UILabel"; text = "2000"; ObjectID = "pTC-KZ-cBm"; */
+"pTC-KZ-cBm.text" = "2000";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "vvb-cI-la7"; */
+"vvb-cI-la7.text" = "Name";

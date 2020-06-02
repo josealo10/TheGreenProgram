@@ -1,0 +1,45 @@
+
+/* Class = "UILabel"; text = " Sold out "; ObjectID = "2Lw-t5-W4R"; */
+"2Lw-t5-W4R.text" = " Sold out ";
+
+/* Class = "UILabel"; text = "Lastest Added Products"; ObjectID = "4hH-RT-pNb"; */
+"4hH-RT-pNb.text" = "Lastest Added Products";
+
+/* Class = "UILabel"; text = "Most Sold Products"; ObjectID = "8Vv-r3-YnJ"; */
+"8Vv-r3-YnJ.text" = "Most Sold Products";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9Tv-nU-b4x"; */
+"9Tv-nU-b4x.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Azy-RH-e9m"; */
+"Azy-RH-e9m.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "DTt-5z-hSC"; */
+"DTt-5z-hSC.text" = "Label";
+
+/* Class = "UILabel"; text = " Sold out "; ObjectID = "DYs-wR-zZH"; */
+"DYs-wR-zZH.text" = " Sold out ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Ff5-HH-GvG"; */
+"Ff5-HH-GvG.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Pbr-Tb-O8a"; */
+"Pbr-Tb-O8a.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "UiM-CJ-vFJ"; */
+"UiM-CJ-vFJ.title" = "Home";
+
+/* Class = "UINavigationItem"; title = "Home"; ObjectID = "VnS-lc-pgr"; */
+"VnS-lc-pgr.title" = "Home";
+
+/* Class = "UILabel"; text = "Deals"; ObjectID = "Zve-4p-GX4"; */
+"Zve-4p-GX4.text" = "Deals";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dyd-yF-vFt"; */
+"dyd-yF-vFt.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "hWj-PF-usI"; */
+"hWj-PF-usI.text" = "Label";
+
+/* Class = "UIViewController"; title = "Home"; ObjectID = "tVL-U6-GHU"; */
+"tVL-U6-GHU.title" = "Home";

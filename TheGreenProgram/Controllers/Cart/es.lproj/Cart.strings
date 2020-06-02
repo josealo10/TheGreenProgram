@@ -1,0 +1,93 @@
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "02Q-bt-6iP"; */
+"02Q-bt-6iP.text" = "Description";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1Ir-Ff-jvj"; */
+"1Ir-Ff-jvj.text" = "Label";
+
+/* Class = "UILabel"; text = "Price"; ObjectID = "47f-cP-D6k"; */
+"47f-cP-D6k.text" = "Price";
+
+/* Class = "UILabel"; text = "Resumen"; ObjectID = "DUg-7q-tN0"; */
+"DUg-7q-tN0.text" = "Resumen";
+
+/* Class = "UILabel"; text = "Notes"; ObjectID = "E4o-Xw-Zv9"; */
+"E4o-Xw-Zv9.text" = "Notes";
+
+/* Class = "UIButton"; normalTitle = "Shop"; ObjectID = "GyJ-Dw-b7Z"; */
+"GyJ-Dw-b7Z.normalTitle" = "Shop";
+
+/* Class = "UITabBarItem"; title = "Cart"; ObjectID = "J7x-ls-hPy"; */
+"J7x-ls-hPy.title" = "Cart";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "Kyw-Jd-OAV"; */
+"Kyw-Jd-OAV.normalTitle" = "Done";
+
+/* Class = "UILabel"; text = "Final"; ObjectID = "LVO-uP-U2S"; */
+"LVO-uP-U2S.text" = "Final";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "N8y-X2-ySe"; */
+"N8y-X2-ySe.text" = "Label";
+
+/* Class = "UILabel"; text = "Taxes"; ObjectID = "PEK-w9-KJb"; */
+"PEK-w9-KJb.text" = "Taxes";
+
+/* Class = "UINavigationItem"; title = "Cart"; ObjectID = "SDV-xF-a75"; */
+"SDV-xF-a75.title" = "Cart";
+
+/* Class = "UIViewController"; title = "Cart"; ObjectID = "TpP-vL-Q3O"; */
+"TpP-vL-Q3O.title" = "Cart";
+
+/* Class = "UILabel"; text = "Cash"; ObjectID = "aVM-OR-DBW"; */
+"aVM-OR-DBW.text" = "Cash";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cax-ZC-A7a"; */
+"cax-ZC-A7a.text" = "Label";
+
+/* Class = "UILabel"; text = "Shiping price"; ObjectID = "dub-dY-gp4"; */
+"dub-dY-gp4.text" = "Shiping price";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "eSb-cd-ox4"; */
+"eSb-cd-ox4.text" = "Label";
+
+/* Class = "UILabel"; text = "Phone number"; ObjectID = "hGz-qk-b0y"; */
+"hGz-qk-b0y.text" = "Phone number";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "iXc-66-wb6"; */
+"iXc-66-wb6.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ibp-W9-OEa"; */
+"ibp-W9-OEa.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Add a note"; ObjectID = "jig-6o-gKf"; */
+"jig-6o-gKf.normalTitle" = "Add a note";
+
+/* Class = "UIButton"; normalTitle = "Clean cart"; ObjectID = "kK3-vd-Z6L"; */
+"kK3-vd-Z6L.normalTitle" = "Clean cart";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "qbs-7b-kWT"; */
+"qbs-7b-kWT.text" = "Title";
+
+/* Class = "UIButton"; normalTitle = "Label"; ObjectID = "rM7-Y3-t9u"; */
+"rM7-Y3-t9u.normalTitle" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "twz-mw-K5O"; */
+"twz-mw-K5O.text" = "Label";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "u0z-dB-Sko"; */
+"u0z-dB-Sko.text" = "Name";
+
+/* Class = "UIButton"; normalTitle = "Change"; ObjectID = "uGP-i4-Xhe"; */
+"uGP-i4-Xhe.normalTitle" = "Change";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "uLr-Dv-BLw"; */
+"uLr-Dv-BLw.text" = "Label";
+
+/* Class = "UILabel"; text = "Selected products"; ObjectID = "wLS-ZC-o49"; */
+"wLS-ZC-o49.text" = "Selected products";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "yVR-tF-GZ0"; */
+"yVR-tF-GZ0.text" = "Label";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "ytt-RO-J4f"; */
+"ytt-RO-J4f.text" = "1";

@@ -1,0 +1,39 @@
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "98c-rg-lCC"; */
+"98c-rg-lCC.title" = "Item";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Mak-T4-sqY"; */
+"Mak-T4-sqY.text" = "Label";
+
+/* Class = "UILabel"; text = " Sold out "; ObjectID = "RQP-60-AOb"; */
+"RQP-60-AOb.text" = " Sold out ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "USM-Ce-9Xw"; */
+"USM-Ce-9Xw.text" = "Label";
+
+/* Class = "UILabel"; text = "Categorie"; ObjectID = "dM5-bl-Nza"; */
+"dM5-bl-Nza.text" = "Categorie";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dx6-Hv-voZ"; */
+"dx6-Hv-voZ.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "eXN-ag-nFV"; */
+"eXN-ag-nFV.text" = "Label";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "gjE-zP-qRX"; */
+"gjE-zP-qRX.title" = "Item";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "kn5-kV-euy"; */
+"kn5-kV-euy.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Search"; ObjectID = "pEb-Cz-7ce"; */
+"pEb-Cz-7ce.title" = "Search";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "t2E-Bg-hR8"; */
+"t2E-Bg-hR8.text" = "Label";
+
+/* Class = "UILabel"; text = " Sold out "; ObjectID = "yDA-E0-ZnI"; */
+"yDA-E0-ZnI.text" = " Sold out ";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "yV1-gi-jWe"; */
+"yV1-gi-jWe.title" = "Item";

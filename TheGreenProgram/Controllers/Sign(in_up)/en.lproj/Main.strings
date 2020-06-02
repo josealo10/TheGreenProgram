@@ -1,0 +1,84 @@
+
+/* Class = "UILabel"; text = "Change password"; ObjectID = "0SZ-Aj-97L"; */
+"0SZ-Aj-97L.text" = "Change password";
+
+/* Class = "UIButton"; normalTitle = "Sign in"; ObjectID = "0fh-pe-rgu"; */
+"0fh-pe-rgu.normalTitle" = "Sign in";
+
+/* Class = "UITextField"; placeholder = "Select birthdate"; ObjectID = "2wl-d6-nEk"; */
+"2wl-d6-nEk.placeholder" = "Select birthdate";
+
+/* Class = "UILabel"; text = "We send you a confirmation email"; ObjectID = "3se-pY-rca"; */
+"3se-pY-rca.text" = "We send you a confirmation email";
+
+/* Class = "UILabel"; text = "Do not have an account?"; ObjectID = "64H-Yk-yhN"; */
+"64H-Yk-yhN.text" = "Do not have an account?";
+
+/* Class = "UILabel"; text = "Continue with"; ObjectID = "8MD-Co-oJl"; */
+"8MD-Co-oJl.text" = "Continue with";
+
+/* Class = "UIButton"; normalTitle = "Sign up with Facebook"; ObjectID = "9o9-8f-d8L"; */
+"9o9-8f-d8L.normalTitle" = "Sign up with Facebook";
+
+/* Class = "UIButton"; normalTitle = "Male"; ObjectID = "CdI-xX-lhc"; */
+"CdI-xX-lhc.normalTitle" = "Male";
+
+/* Class = "UILabel"; text = "Province"; ObjectID = "Dja-a9-nW0"; */
+"Dja-a9-nW0.text" = "Province";
+
+/* Class = "UITextField"; placeholder = "Select province"; ObjectID = "ECm-BY-FFn"; */
+"ECm-BY-FFn.placeholder" = "Select province";
+
+/* Class = "UIButton"; normalTitle = "x"; ObjectID = "Hdc-Tw-BxW"; */
+"Hdc-Tw-BxW.normalTitle" = "x";
+
+/* Class = "UIButton"; normalTitle = "Forgot password?"; ObjectID = "LLZ-LT-qNV"; */
+"LLZ-LT-qNV.normalTitle" = "Forgot password?";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "MIn-cF-hLP"; */
+"MIn-cF-hLP.normalTitle" = "OK";
+
+/* Class = "UIButton"; normalTitle = "Female"; ObjectID = "NXW-Gx-GXM"; */
+"NXW-Gx-GXM.normalTitle" = "Female";
+
+/* Class = "UILabel"; text = "Birthdate"; ObjectID = "Po8-F4-xMd"; */
+"Po8-F4-xMd.text" = "Birthdate";
+
+/* Class = "UIButton"; normalTitle = "Sign up with Google"; ObjectID = "Qr8-SS-AG9"; */
+"Qr8-SS-AG9.normalTitle" = "Sign up with Google";
+
+/* Class = "UILabel"; text = "Gender"; ObjectID = "Rv3-NL-Zp6"; */
+"Rv3-NL-Zp6.text" = "Gender";
+
+/* Class = "UILabel"; text = "Personal information"; ObjectID = "Xy3-py-uJd"; */
+"Xy3-py-uJd.text" = "Personal information";
+
+/* Class = "UIButton"; normalTitle = "Request code"; ObjectID = "YeM-Mo-IbZ"; */
+"YeM-Mo-IbZ.normalTitle" = "Request code";
+
+/* Class = "UILabel"; text = "Request"; ObjectID = "bko-nm-wof"; */
+"bko-nm-wof.text" = "Request";
+
+/* Class = "UINavigationItem"; title = "Change password"; ObjectID = "dND-A6-RVH"; */
+"dND-A6-RVH.title" = "Change password";
+
+/* Class = "UIButton"; normalTitle = "Create new account"; ObjectID = "dtO-uY-CxN"; */
+"dtO-uY-CxN.normalTitle" = "Create new account";
+
+/* Class = "UIButton"; normalTitle = "Sign in"; ObjectID = "fLc-Qq-BXk"; */
+"fLc-Qq-BXk.normalTitle" = "Sign in";
+
+/* Class = "UIViewController"; title = "Create account"; ObjectID = "gYJ-Vm-5Rt"; */
+"gYJ-Vm-5Rt.title" = "Create account";
+
+/* Class = "UIButton"; normalTitle = "Send another confirmation email"; ObjectID = "ifx-hD-mwc"; */
+"ifx-hD-mwc.normalTitle" = "Send another confirmation email";
+
+/* Class = "UINavigationItem"; title = "Create account"; ObjectID = "m5k-xk-7EU"; */
+"m5k-xk-7EU.title" = "Create account";
+
+/* Class = "UILabel"; text = "Access information"; ObjectID = "o2I-w6-nqq"; */
+"o2I-w6-nqq.text" = "Access information";
+
+/* Class = "UIButton"; normalTitle = "Change password"; ObjectID = "zkj-kW-12a"; */
+"zkj-kW-12a.normalTitle" = "Change password";

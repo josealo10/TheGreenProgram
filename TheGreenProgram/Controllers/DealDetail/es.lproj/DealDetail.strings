@@ -1,0 +1,45 @@
+
+/* Class = "UILabel"; text = "DescriptionLabel"; ObjectID = "1e7-XX-MxA"; */
+"1e7-XX-MxA.text" = "DescriptionLabel";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3u6-DW-xyN"; */
+"3u6-DW-xyN.text" = "Label";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "4Cp-v1-8pp"; */
+"4Cp-v1-8pp.text" = "Description";
+
+/* Class = "UILabel"; text = "NameLabel"; ObjectID = "87S-0Q-BCu"; */
+"87S-0Q-BCu.text" = "NameLabel";
+
+/* Class = "UILabel"; text = "Vencimiento"; ObjectID = "8pd-ef-QYM"; */
+"8pd-ef-QYM.text" = "Vencimiento";
+
+/* Class = "UIButton"; normalTitle = "Update cart"; ObjectID = "H2q-no-jd3"; */
+"H2q-no-jd3.normalTitle" = "Update cart";
+
+/* Class = "UILabel"; text = "por unidad"; ObjectID = "aHT-D7-64X"; */
+"aHT-D7-64X.text" = "por unidad";
+
+/* Class = "UILabel"; text = "product"; ObjectID = "e1F-pE-UTb"; */
+"e1F-pE-UTb.text" = "product";
+
+/* Class = "UILabel"; text = "99"; ObjectID = "hso-XO-ANd"; */
+"hso-XO-ANd.text" = "99";
+
+/* Class = "UILabel"; text = "CRC 1200"; ObjectID = "jFU-5d-z0k"; */
+"jFU-5d-z0k.text" = "CRC 1200";
+
+/* Class = "UILabel"; text = "label"; ObjectID = "jgW-BT-7Z2"; */
+"jgW-BT-7Z2.text" = "label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "lD9-Uo-Jde"; */
+"lD9-Uo-Jde.text" = "Label";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "o1L-Jg-STc"; */
+"o1L-Jg-STc.text" = "Name";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "oEg-Yk-KBg"; */
+"oEg-Yk-KBg.text" = "Label";
+
+/* Class = "UILabel"; text = "Products on deal"; ObjectID = "yOQ-6K-reR"; */
+"yOQ-6K-reR.text" = "Products on deal";

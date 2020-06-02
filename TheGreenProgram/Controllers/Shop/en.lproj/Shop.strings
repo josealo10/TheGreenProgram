@@ -1,0 +1,63 @@
+
+/* Class = "UINavigationItem"; title = "Products"; ObjectID = "043-NR-i0K"; */
+"043-NR-i0K.title" = "Products";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "5Ml-XX-nBI"; */
+"5Ml-XX-nBI.text" = "Label";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "98c-rg-lCC"; */
+"98c-rg-lCC.title" = "Item";
+
+/* Class = "UITextField"; text = "0"; ObjectID = "BRZ-I5-c4w"; */
+"BRZ-I5-c4w.text" = "0";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "FKz-jH-PPH"; */
+"FKz-jH-PPH.text" = "Name";
+
+/* Class = "UIBarButtonItem"; title = "Confirm"; ObjectID = "HfG-6R-YCK"; */
+"HfG-6R-YCK.title" = "Confirm";
+
+/* Class = "UILabel"; text = "Total price"; ObjectID = "QDP-OK-FPd"; */
+"QDP-OK-FPd.text" = "Total price";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Qwn-Ev-u43"; */
+"Qwn-Ev-u43.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "USM-Ce-9Xw"; */
+"USM-Ce-9Xw.text" = "Label";
+
+/* Class = "UILabel"; text = "Quantity"; ObjectID = "WsJ-C1-Btf"; */
+"WsJ-C1-Btf.text" = "Quantity";
+
+/* Class = "UIButton"; normalTitle = "Add to cart"; ObjectID = "YMS-Kg-f8h"; */
+"YMS-Kg-f8h.normalTitle" = "Add to cart";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ZaR-Eb-zcg"; */
+"ZaR-Eb-zcg.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dx6-Hv-voZ"; */
+"dx6-Hv-voZ.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "eXN-ag-nFV"; */
+"eXN-ag-nFV.text" = "Label";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "gjE-zP-qRX"; */
+"gjE-zP-qRX.title" = "Item";
+
+/* Class = "UITabBarItem"; title = "Shop"; ObjectID = "kos-wo-36W"; */
+"kos-wo-36W.title" = "Shop";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "oGa-ut-xhI"; */
+"oGa-ut-xhI.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "rNb-1D-j0T"; */
+"rNb-1D-j0T.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Products"; ObjectID = "ul0-hK-cNV"; */
+"ul0-hK-cNV.title" = "Products";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "y0C-Bl-2dc"; */
+"y0C-Bl-2dc.text" = "Description";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "yV1-gi-jWe"; */
+"yV1-gi-jWe.title" = "Item";

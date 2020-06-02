@@ -1,0 +1,45 @@
+
+/* Class = "UILabel"; text = "Points will be reset at the beginning of each year"; ObjectID = "2iv-e0-xil"; */
+"2iv-e0-xil.text" = "Points will be reset at the beginning of each year";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "8F5-aG-RxD"; */
+"8F5-aG-RxD.text" = "Label";
+
+/* Class = "UILabel"; text = "Information about points"; ObjectID = "9XR-ua-TGG"; */
+"9XR-ua-TGG.text" = "Information about points";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9xs-KT-CGk"; */
+"9xs-KT-CGk.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "DPe-0i-oHo"; */
+"DPe-0i-oHo.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "OpA-GQ-EiN"; */
+"OpA-GQ-EiN.text" = "Label";
+
+/* Class = "UILabel"; text = "Benefits"; ObjectID = "PdF-aD-Zlp"; */
+"PdF-aD-Zlp.text" = "Benefits";
+
+/* Class = "UILabel"; text = "Nivel"; ObjectID = "PgL-7d-G2u"; */
+"PgL-7d-G2u.text" = "Nivel";
+
+/* Class = "UILabel"; text = "• Depending on the level, you will receive an additional percentage per purchase"; ObjectID = "a80-rQ-MI5"; */
+"a80-rQ-MI5.text" = "• Depending on the level, you will receive an additional percentage per purchase";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dFE-gB-S8R"; */
+"dFE-gB-S8R.text" = "Label";
+
+/* Class = "UILabel"; text = "• For each purchase you will receive 10% in points"; ObjectID = "nx4-Om-56S"; */
+"nx4-Om-56S.text" = "• For each purchase you will receive 10% in points";
+
+/* Class = "UIButton"; normalTitle = "See more"; ObjectID = "oXa-UX-jdb"; */
+"oXa-UX-jdb.normalTitle" = "See more";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "qRE-TH-XA4"; */
+"qRE-TH-XA4.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "rk3-m8-Kt6"; */
+"rk3-m8-Kt6.text" = "Label";
+
+/* Class = "UILabel"; text = "There are two ways to get points"; ObjectID = "rwd-zT-Er9"; */
+"rwd-zT-Er9.text" = "There are two ways to get points";

@@ -1,0 +1,22 @@
+{
+    "def": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-thegreenprogram-def-134333-authRole",
+            "UnauthRoleArn": "arn:aws:iam::934818996791:role/amplify-thegreenprogram-def-134333-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::934818996791:role/amplify-thegreenprogram-def-134333-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "amplify-thegreenprogram-def-134333-deployment",
+            "UnauthRoleName": "amplify-thegreenprogram-def-134333-unauthRole",
+            "StackName": "amplify-thegreenprogram-def-134333",
+            "StackId": "arn:aws:cloudformation:us-west-2:934818996791:stack/amplify-thegreenprogram-def-134333/b002e220-21ce-11ea-82e5-0a52752701a6",
+            "AmplifyAppId": "d2lefp1cn498cz"
+        },
+        "categories": {
+            "auth": {
+                "thegreenprograme1fb7569e1fb7569": {
+                    "hostedUIProviderCreds": "[]"
+                }
+            }
+        }
+    }
+}
